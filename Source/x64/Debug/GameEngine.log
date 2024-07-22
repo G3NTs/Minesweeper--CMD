@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\G3NTs\source\repos\GameEngine\GameEngine\MineSweeper.h(82,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\G3NTs\source\repos\GameEngine\GameEngine\main.cpp(134,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\G3NTs\source\repos\GameEngine\GameEngine\main.cpp(149,83): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  GameEngine.vcxproj -> C:\Users\G3NTs\source\repos\GameEngine\x64\Debug\GameEngine.exe
