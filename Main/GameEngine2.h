@@ -216,7 +216,7 @@ public:
         {
             for (int y = 0; y < nFieldHeight + 4; y++)
             {
-                screen[y * nScreenWidth + x] = L" 0123456789#?*FYou Win@LoseB:T¤-"[pField[y * (nFieldWidth + 2) + x]];
+                screen[y * nScreenWidth + x] = L" 0123456789#?*FYou Win@LoseB:TÂ¤-"[pField[y * (nFieldWidth + 2) + x]];
             }
         }
 
